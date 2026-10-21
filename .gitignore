@@ -1,0 +1,13 @@
+
+# Local environments, datasets, training outputs, and secrets
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+wandb/
+data/
+runs/
+*.partial
+.env
+.env.*
+!.env.example
