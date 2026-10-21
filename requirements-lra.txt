@@ -1,0 +1,4 @@
+# Minimal environment for lra_retrieval.py and prepare_lra.py.
+--extra-index-url https://download.pytorch.org/whl/cu124
+numpy==2.5.2
+torch==2.6.0+cu124
